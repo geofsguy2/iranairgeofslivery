@@ -3776,6 +3776,12 @@
                     ]
                 },
                 {
+                    "name": "MPA Air",
+                    "texture": [
+                        "https://i.ibb.co/5Gx2wxT/ipiccy-image-1.png"
+                    ]
+                },
+                {
                     "name": "Air Caraïbes",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/ATR_72-600/caraibes.png"
