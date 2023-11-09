@@ -125,6 +125,12 @@
                     ]
                 },
                 {
+                    "name": "GALAX",
+                    "texture": [
+                        "https://github.com/geofsguy2/iranairgeofslivery/blob/main/Drawing-4.sketchpad.png?raw=true"
+                    ]
+                },
+                {
                     "name": "Lauda",
                     "texture": [
                         "https://i.ibb.co/28xnQDx/Lauda737.jpg"
