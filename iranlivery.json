@@ -137,6 +137,12 @@
                     ]
                 },
                 {
+                    "name": "Crying Airlines",
+                    "texture": [
+                        "https://raw.githubusercontent.com/geofsguy2/iranairgeofslivery/main/image%20(1).png"
+                    ]
+                },
+                {
                     "name": "Lauda",
                     "texture": [
                         "https://i.ibb.co/28xnQDx/Lauda737.jpg"
